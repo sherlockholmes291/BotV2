@@ -330,7 +330,7 @@ client.on('group-participants-update', async (anu) => {
 				case 'info':
 					me = client.user
 					uptime = process.uptime()
-					teks = `*Nama bot* : ${me.name}\n*OWNER* : *AMPIBI*\n*AUTHOR* : AMPIBI\n*Nomor Bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total Block Contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}`
+					teks = `*BOT SAGIRI* : ${me.name}\n*OWNER* : *Rio*\n*AUTHOR* : Sagiri\n*Nomor Bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total Block Contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
@@ -781,10 +781,10 @@ client.on('group-participants-update', async (anu) => {
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 					if (args[0] === 'buka') {
-					    reply(`𝗕𝗲𝗿𝗵𝗮𝘀𝗶?? 𝗠𝗲𝗺𝗯𝘂𝗸𝗮 𝗚𝗿𝗼𝘂𝗽 𝗧𝗼𝗱`)
+					    reply(`𝗕𝗲𝗿𝗵𝗮𝘀𝗶?? 𝗠𝗲𝗺𝗯𝘂𝗸𝗮 𝗚𝗿𝗼𝘂𝗽 `)
 						client.groupSettingChange(from, GroupSettingChange.messageSend, false)
 					} else if (args[0] === 'tutup') {
-						reply(`𝗕𝗲𝗿𝗵𝗮𝘀𝗶𝗹 𝗠𝗲𝗻𝘂𝘁𝘂𝗽 𝗚𝗿𝗼𝘂𝗽 𝗧𝗼𝗱`)
+						reply(`𝗕𝗲𝗿𝗵𝗮𝘀𝗶𝗹 𝗠𝗲𝗻𝘂𝘁𝘂𝗽 𝗚𝗿𝗼𝘂𝗽`)
 						client.groupSettingChange(from, GroupSettingChange.messageSend, true)
 					}
 					break      
