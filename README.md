@@ -34,7 +34,7 @@ ownerNumber = "62895605980121@s.whatsapp.net"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [WHATSAPP](https://wa.me/6285939888897)
+- [WHATSAPP](https://wa.me/62895605980121)
 
 ### Install
 Clone this project
