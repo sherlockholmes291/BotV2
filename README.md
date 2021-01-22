@@ -1,8 +1,9 @@
-# Termux Bot Whatsapp V2 by Riocahyapangestu
-
-<p align="center">
-<img src="https://giphy.com/gifs/eromanga-gXiIZrzd2w4G4.gif" alt="GIF" width="128" height="128"/>
-</p>
+<div align="center">
+<img src="https://resize.cdn.otakumode.com/ex/1200.630/0.111.596.314/u/f0da3d54cf33414f90114b28b3f9c571.jpg" alt="Botto-re" width="500" />
+ 
+ 
+ ## Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+</div>
 <p align="center">
 <a href="#"><img title="SAGIRI BOT" src="https://img.shields.io/badge/XBotV2-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
