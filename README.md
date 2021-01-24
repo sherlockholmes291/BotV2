@@ -5,7 +5,7 @@
  ## Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 </div>
 <p align="center">
-<a href="#"><img title="Bot Sagiri" src="https://img.shields.io/badge/XBotV2-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Bot Sagiri" src="https://img.shields.io/badge/BOT SAGIRI OFFICIAL-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Riocahyapangestu"><img title="Author" src="https://img.shields.io/badge/Author-Rio-orange.svg?style=for-the-badge&logo=github"></a>
