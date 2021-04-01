@@ -28,9 +28,9 @@ const ffmpeg = require('fluent-ffmpeg')
 const { removeBackgroundFromImageFile } = require('remove.bg')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Rio\n' 
+            + 'FN:Andi\n' 
             + 'ORG: Pengembang Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=62895605980121:+62 895-6059-80121\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 822-9211-9677\n' 
             + 'END:VCARD' 
 prefix = '#'
 blocked = []          
